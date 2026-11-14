@@ -1,0 +1,9 @@
+{
+  "name": "GKM Live Scoreboard",
+  "short_name": "GKM Score",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#091321",
+  "theme_color": "#101d30",
+  "description": "Gestion des matchs et statistiques du tournoi GKM"
+}

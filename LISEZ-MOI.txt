@@ -1,0 +1,22 @@
+GKM LIVE SCOREBOARD — GUIDE RAPIDE
+
+UTILISATION IMMÉDIATE
+1. Téléchargez et extrayez GKM_Live_Scoreboard_Complet.zip.
+2. Ouvrez le fichier index.html avec Chrome ou un navigateur récent.
+3. Dans ÉQUIPES, créez vos équipes et ajoutez les joueurs (un nom par ligne).
+4. Dans MATCH LIVE, choisissez les deux équipes, le format et les durées, puis créez le match.
+5. Sélectionnez un joueur et saisissez ses statistiques.
+6. À la fin, cliquez sur TERMINER & ARCHIVER LE MATCH.
+
+FONCTIONS
+- Chronomètre décompté inspiré du format NBA, durée des quart-temps et prolongations réglables.
+- Score automatique, statistiques individuelles, annulation de la dernière action.
+- Historique des matchs, statistiques cumulées, leaders et indice MVP indicatif.
+- Classement des équipes (victoires, défaites, points pour/contre, différence).
+- Sauvegarde locale automatique et exports JSON/CSV.
+
+IMPORTANT
+- Le fichier index.html est autonome : il n'a pas besoin d'Internet pour fonctionner une fois téléchargé.
+- Les données restent dans le stockage du navigateur sur cet appareil. Exportez régulièrement le JSON depuis l'onglet SAUVEGARDE.
+- Pour une vraie icône installée sur l'écran d'accueil et le cache PWA, les fichiers doivent être publiés sur un hébergement HTTPS. Ce paquet n'est pas encore publié sur une adresse web.
+- La synchronisation entre plusieurs téléphones ou ordinateurs n'est pas incluse.
